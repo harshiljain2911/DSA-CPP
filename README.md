@@ -1,7 +1,7 @@
 # DSA-CPP
 DSA practice and STL basics in C++
 
-#DAY_1
+# DAY_1
 
 This repository contains my daily DSA practice codes in C++.
 
