@@ -2,7 +2,7 @@ class Solution {
 public:
 
     int fun(int i,int j,string& s,string& t,vector<vector<int>>& dp){
-        
+    
         if(i<0) return j+1;
         if(j<0) return i+1;
 
